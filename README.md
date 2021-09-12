@@ -1,3 +1,1 @@
-# uberclone
-Aquí tengo el backend listo para comunicar con mi heroku
-otra actualizacion
+#Welcome at my BTC, this project is totally legal, used for anonymous and free world
